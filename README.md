@@ -1,0 +1,1 @@
+# -worldrates_bot
